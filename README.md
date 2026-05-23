@@ -108,3 +108,32 @@
 
 - ⚡ Fun fact: ...
 -->
+  # 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kushwah123&show_icons=true&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushwah123&theme=tokyonight" />
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushwah123&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
