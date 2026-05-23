@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋 I'm Dharmendra Kumar
 
-<!--
-**Kushwah123/Kushwah123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+💻 Passionate Full Stack Developer focused on building real-world web applications using MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+# 👨‍💻 About Me
+
+- 🔥 MERN Stack Developer
+- ⚛ Skilled in React.js, Redux Toolkit, Node.js, Express.js, MongoDB
+- 🏫 Building Full School Management System
+- 🛒 Developed VeggieKart Ecommerce App
+- 📱 Learning React Native
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+- React.js
+- Redux Toolkit
+- Bootstrap
+- Tailwind CSS
+
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+---
+
+# 📌 Featured Projects
+
+## 🏫 School Management System
+- Student Management
+- Attendance System
+- Fees Management
+- Admin Dashboard
+- Teacher & Parent Panel
+
+---
+
+## 🛒 VeggieKart Ecommerce App
+- Product Listing
+- Cart System
+- Admin Panel
+- Order Management
+
+---
+
+## ✍ MERN Blog Application
+- Authentication
+- Blog CRUD
+- Image Upload
+- Comments & Likes
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/Kushwah123
+
+---
+
+⭐ Always learning new technologies and building real-world projects.
+
+
 - ⚡ Fun fact: ...
 -->
