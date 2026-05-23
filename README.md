@@ -1,3 +1,40 @@
+<h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
+
+<h3 align="center">MERN Stack Developer from India 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=MERN+Stack+Developer;React.js+Developer;Node.js+Developer;Full+Stack+Web+Developer" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/Kushwah123" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+
+</p>
+
+---
 # Hi 👋 I'm Dharmendra Kumar
 
 # 🚀 MERN Stack Developer
@@ -62,6 +99,7 @@
 # 📫 Connect With Me
 
 - GitHub: https://github.com/Kushwah123
+
 
 ---
 
