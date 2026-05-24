@@ -99,6 +99,8 @@
 # 📫 Connect With Me
 
 - GitHub: https://github.com/Kushwah123
+- Linkedin:https://www.linkedin.com/in/dharmendra-5986b1254/
+- Portfolio:https://dharmendra-dev.netlify.app/
 
 
 ---
